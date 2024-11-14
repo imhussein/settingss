@@ -1,0 +1,116 @@
+{
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.wordWrap": "on",
+  "vs-kubernetes": {
+    "disable-linters": ["resource-limits"]
+  },
+  "html.format.enable": true,
+  "editor.cursorBlinking": "solid",
+  "editor.quickSuggestionsDelay": 30,
+  "editor.fontFamily": "Operator Mono, Monaco,Andale Mono,Ubuntu Mono,monospace",
+  "editor.fontWeight": "400",
+  "terminal.integrated.fontFamily": "Operator Mono",
+  "terminal.integrated.fontSize": 19,
+  "explorer.compactFolders": false,
+  "terminal.integrated.fontWeight": "400",
+  "rust-client.rustupPath": "$HOME/.cargo/bin/rustup",
+  "editor.fontSize": 23,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "jinja-html": "html"
+  },
+  "[php]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 2
+  },
+  "terminal.integrated.shell.linux": "zsh",
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+  "[rust]": {
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2
+  },
+  "editor.cursorStyle": "line",
+  "editor.tabSize": 2,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "files.associations": {
+    "*.js": "javascriptreact"
+  },
+  "editor.renderWhitespace": "all",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "workbench.colorCustomizations": {
+    "window.activeBorder": "#333333",
+    "window.inactiveBorder": "#cccccc"
+  },
+  "window.doubleClickIconToClose": true,
+  "window.titleBarStyle": "custom",
+  "python.linting.pylintArgs": [
+    "--load-plugins=pylint_django",
+    "--errors-only"
+  ],
+  "python.showStartPage": false,
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.selectionHighlight": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": "off"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "explicit",
+      "source.removeUnusedImports": "always"
+    }
+  },
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.snippetSuggestions": "top",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "files.exclude": {
+    "/.classpath": true,
+    "/.project": true,
+    "/.settings": true,
+    "/.factorypath": true
+  },
+  "docker.showStartPage": false,
+  "smoothtype.duration": 200,
+  "editor.formatOnSave": true,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "explicit",
+      "source.removeUnusedImports": "always"
+    }
+  },
+  "python.languageServer": "Pylance",
+  "[vue-html]": {
+    "editor.formatOnSave": true
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "octref.vetur"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.cursorWidth": 2,
+  "window.zoomLevel": 2.1,
+  "workbench.tree.enableStickyScroll": false,
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "explorer.confirmDragAndDrop": false,
+  "workbench.editor.empty.hint": "hidden",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Visual Studio Dark - C++"
+}
